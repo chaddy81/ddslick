@@ -1,0 +1,19 @@
+{
+  "name": "ddslick",
+  "version": "1.0.0",
+  "homepage": "http://designwithpc.com/Plugins/ddSlick",
+  "authors": [
+    "prashantchaudhary"
+  ],
+  "description": "ddslick-dropdowns with images",
+  "main": "jquery.ddslick.js, jquery.ddslick.min.js",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "ddslick",
+    "dropdowns"
+  ],
+  "license": "MIT",
+  "private": true
+}
